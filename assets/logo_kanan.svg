@@ -1,0 +1,11 @@
+<svg width="134" height="135" viewBox="0 0 134 135" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="13.5" y="14.5" width="106" height="106" stroke="black" stroke-width="9"/>
+<mask id="path-2-inside-1_106_18" fill="white">
+<rect x="33" y="34" width="67" height="67" rx="9"/>
+</mask>
+<rect x="33" y="34" width="67" height="67" rx="9" stroke="black" stroke-width="28" mask="url(#path-2-inside-1_106_18)"/>
+<circle cx="14.5" cy="14.5" r="14.5" fill="black"/>
+<circle cx="119.5" cy="14.5" r="14.5" fill="black"/>
+<circle cx="14.5" cy="120.5" r="14.5" fill="black"/>
+<circle cx="119.5" cy="120.5" r="14.5" fill="black"/>
+</svg>
